@@ -1,1 +1,4 @@
-# alexis779.github.com
+# Index
+
+## 3D printing
+- [Lego block gauge](/legoBlockGauge3DPrinting.md)
