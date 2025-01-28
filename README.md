@@ -1,4 +1,4 @@
 # Index
 
 ## 3D printing
-- [Lego block gauge](/legoBlockGauge3DPrinting.md)
+- [Solving the Elephant foot problem on Lulzbot TAZ 6](/legoBlockGauge3DPrinting.md)
